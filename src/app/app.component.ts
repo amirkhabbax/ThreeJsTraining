@@ -1,5 +1,6 @@
 import { Component } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
+import * as THREE from 'three' ;
 
 @Component({
   selector: 'app-root',
